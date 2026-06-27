@@ -11,6 +11,15 @@ A collection of small programs, experiments, and learning projects from my Engin
 | [TicTacToe](./TicTacToe) | Unbeatable Tic Tac Toe — try to win against the computer | Python |
 | [HandCricket](./HandCricket) | Classic hand cricket game in the terminal | Python |
 
+### Android (Applied CS with Android)
+
+| Project | Description |
+|---------|-------------|
+| [WordStack](./WordStack) | Android word stacking game |
+| [Ghost](./Ghost) | Android word game where players take turns adding letters |
+| [ScarnesDice](./ScarnesDice) | Android implementation of Scarne's Dice |
+| [Anagrams](./Anagrams) | Android anagram solving game |
+
 ### Computer Vision
 
 | Project | Description | Stack |
