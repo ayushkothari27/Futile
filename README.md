@@ -11,6 +11,13 @@ A collection of small programs, experiments, and learning projects from my Engin
 | [TicTacToe](./TicTacToe) | Unbeatable Tic Tac Toe — try to win against the computer | Python |
 | [HandCricket](./HandCricket) | Classic hand cricket game in the terminal | Python |
 
+### Computer Vision
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [PersonNoddingDetection](./PersonNoddingDetection) | Naive head nod detection using 68 facial landmarks via dlib and OpenCV | Python, OpenCV, dlib |
+| [PeoplePositionHeatmap](./PeoplePositionHeatmap) | Generates a heatmap of people positions from a video feed | Python, OpenCV |
+
 ### Web
 
 | Project | Description | Stack |
